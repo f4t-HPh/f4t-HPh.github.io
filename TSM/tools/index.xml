@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Famous strategy tools on Practitioner&#39;s Perspective on Strategy</title>
+    <link>/TSM/tools/</link>
+    <description>Recent content in Famous strategy tools on Practitioner&#39;s Perspective on Strategy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Aug 2018 20:00:39 +0200</lastBuildDate>
+    
+	<atom:link href="/TSM/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to start a SWOT? </title>
+      <link>/TSM/tools/swot/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/TSM/tools/swot/</guid>
+      <description>A SWOT chart can be used in a wide variety of situations, which makes it very attractive. It can for instance help evaluating the effectiveness of the existing strategy of an organization (and defining how the strategy should be refined/adapted to changes in the environment). Adequately used, a SWOT can also be very powerful to guide the analysis and very effective to present findings.
+The quality of the outputs however, may suffer when the analysis is too superficial.</description>
+    </item>
+    
+    <item>
+      <title>Delineating the environment </title>
+      <link>/TSM/tools/environment/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/TSM/tools/environment/</guid>
+      <description>Designing an appropriate model of reality With all Strategic Frameworks, the secret reside in building a model, a simplified view of reality to highlight the key influencing factors.
+  The puppet here above has legs with no knee-articulation. If such articulations would be significant for the situation under analysis, the model would be over- simplified. By contrast, adding articulations if not significant at the first order, would bring unnecessarily complexity in the model.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the environment </title>
+      <link>/TSM/tools/pestel/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/TSM/tools/pestel/</guid>
+      <description>PESTEL The PESTLE analysis is a tool to scan the external macro environment (big picture) in which a business operates or could operate. It aims at pinpointing which of the external factors have the biggest influence on the business (can be either positive stimulus or constraints). It is therefore important that the influence stemming from of the various factors are well understood.
+Moreover a PESTLE analysis aims at deciding which of the factors can change the rules of the game in the future.</description>
+    </item>
+    
+    <item>
+      <title>Complements</title>
+      <link>/TSM/tools/resources/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/TSM/tools/resources/</guid>
+      <description>Resource &amp;amp; Competence From SWOT to TOWS Once built, a SWOT matrix can also be used to fine tune the analysis of the situation and refine the strategic options. Typically, strategists would look at how to increase competitive advantages by matching the strength and opportunities, while trying to convert weaknesses or threats into strengths and opportunities.
+  The four quadrants of the matrix correspond to four distinct responses:</description>
+    </item>
+    
+  </channel>
+</rss>
