@@ -25,7 +25,10 @@
     --MENU-VISITED-color: #599a3e; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #18211c; /* Color of <hr> separator in menu */
 
-    --STRONG-COLOR: #E6412E;
+    --OLD-STRONG-COLOR: #6F6F6F;
+    --OOLD-STRONG-COLOR: #E6412E;
+    --STRONG-COLOR: #FD9326;
+    --BLOCKQUOTE: #8F8F8F;
 }
 
 body {
@@ -39,14 +42,34 @@ body {
 }
 
 #body-inner p {
+  font-size: 1.1rem;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#body-inner ul li {
   text-align: left;
-  font-size: 1.1rem;}
+  font-size: 1.1rem;
+}
 
 strong {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  font-weight: 800;
   color: var(--STRONG-COLOR)
   }
 
+blockquote p {
+  color:var(--BLOCKQUOTE);
+}
+
+.cite {
+}
+.ci::after {
+  content: ", ";
+}
+.ci:last-child::after {
+    content: "";
+}
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
     border-color: none;
@@ -54,7 +77,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 
 h1{
- font-size: 4rem;
+ font-size: 2.4 rem;
 }
 
 h2 {
@@ -64,7 +87,7 @@ h2 {
 h3 {
     color: #C13C00;
     font-family: 'Lato', sans-serif;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     font-weight: 700;
     font-variant: small-caps;
 }
