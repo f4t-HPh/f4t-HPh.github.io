@@ -1,3 +1,11 @@
+// Smoothix tracker 
+<script src="https://firebasestorage.googleapis.com/v0/b/smoothix-3f485.appspot.com/o/tracker.js?alt=media&token=e5231b88-b801-488c-a044-9f72657cf162"></script>
+<script>
+  smoothix.init("c92df326-5029-4775-b509-e998c71752fb");
+</script>
+
+
+
 // Scrollbar Width function
 function getScrollBarWidth() {
     var inner = document.createElement('p');
