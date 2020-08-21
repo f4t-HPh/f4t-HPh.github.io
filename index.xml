@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Business Economics</title>
+      <link>/value-architecture/1.-business-economics/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/1.-business-economics/</guid>
+      <description>Economists call inputs factors and say that firm combine factors. They also represent the transformation as a so called production function. The function is characteristic of the technology (i.e. production processes) used. For a given production function, the output (and therefore the cost of producing the output) is a function of the various inputs.
+  A variation in outputs/inputs will translate into a variation in costs. Moreover the variation in costs in usually not linear (producing more doesn’t necessarily imply overspending in proportion).</description>
+    </item>
+    
+    <item>
       <title>Corporate composition</title>
       <link>/corporate/1.-corporate/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
@@ -19,17 +29,17 @@
       <guid>/corporate/1.-corporate/</guid>
       <description>Introduction Corporate Strategy aims at finding out if a company should, and if so, how it should compete across several industries.
  Corporate Strategy is about selecting an optimal set of businesses and determining how they should be integrated into the corporate whole - De Wit &amp;amp; Meyer
- Corporate Strategy being about multi-businesses, it becomes key to define what a &amp;lsquo;business&amp;rsquo; is. The usual accepted definition is that a a business is characterized by its business model.</description>
+   Corporate Strategy being about multi-businesses, it becomes key to define what a &amp;lsquo;business&amp;rsquo; is. The usual accepted definition is that a a business is characterised by its business model.</description>
     </item>
     
     <item>
-      <title>Getting Organized</title>
-      <link>/leadership/1.-getting-organized/</link>
+      <title>Getting Organised</title>
+      <link>/management/1.getting-organised/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/leadership/1.-getting-organized/</guid>
-      <description>Strategy elaboration is likely to mobilize a wide variety of techniques, involve staff from various functional origins and last from a few weeks to several months. It is therefore paramount to plan and organize the work to ensure that resources and means are aligned with expectations and constraints.
-Preparing a report, within a week, on the structure of an industry is not comparable with elaborating, along several months, a full diversification strategy.</description>
+      <guid>/management/1.getting-organised/</guid>
+      <description>Strategy elaboration is likely to mobilise a wide variety of techniques, involve staff from various functional origins and last from a few weeks to several months. It is therefore paramount to anticipate, plan and organise the work to ensure that resources and means are well aligned with expectations and constraints.
+   Preparing a report, within a week, on the structure of an industry is not comparable with elaborating, along several months, a full diversification case.</description>
     </item>
     
     <item>
@@ -47,8 +57,18 @@ Preparing a report, within a week, on the structure of an industry is not compar
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
       <guid>/introduction/1.-the-nature-of-strategy/</guid>
-      <description>What does Strategy mean? “Strategy” in everyday’s conversations In everyday conversations the word strategy far exceeds the domain of strategic management. Considering just a glimpse of the many different meanings, at least three specific contexts can be stressed, in addition to strategic management: strategic thinking, problem solving and important things.
-   Strategy for Important it is very common to hear about strategic customers, strategic suppliers, strategic country, strategic campaign, strategic project, etc.</description>
+      <description>Why do we need Strategy? While the overall field of strategic management is rather well delineated, there is very little consensus on What is strategy.
+ There are strongly differing opinions on most key issues - and disagreements among practitioners, researchers and theorists as to what is strategy - so deep that even a common definition of the term strategy is illusive ( [DeWit10] )  So even before trying to define WHAT strategy is (at that stage let’s consider that strategy conveys the idea of being successful ), let&amp;rsquo;s first wonder WHY do we need strategy at all</description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>/leadership/1.-vision/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/leadership/1.-vision/</guid>
+      <description>It is now rather standard for companies (at least listed companies) to write Strategy statements with the twofold objective of i) stressing the fundamental goals that the organisation seeks (including delineating the scope and domain of their activities, outlining the particular advantages or capabilities they hold) and ii) communicating the underlying and enduring core principles that guide the way the organisation should operate.
+  Although there is no unanimous agreement on what a vision / mission statement should be, common wisdom sees a firm’s mission as a long-term ambition, preferably enthusiastically phrased, that ensures the identity, consistency and stability of the firm.</description>
     </item>
     
     <item>
@@ -62,13 +82,12 @@ Preparing a report, within a week, on the structure of an industry is not compar
     
     <item>
       <title>What is a Business Model?</title>
-      <link>/business-model/1.-what-is-bm/</link>
+      <link>/value-proposition/1.-what-is-bm/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/business-model/1.-what-is-bm/</guid>
-      <description>There are many definitions of the concept of Business Model.
-In a nutshell, a BM is a simplified representation of a business that stresses both the intent and inner logic ( [Osterwalder10] ) .
-  A Business Model  is „the set of mechanisms by which a company can create value through the value proposition made to its customers, its value architecture and capture that value to turn it into profits” [Lehmann-Ortega].</description>
+      <guid>/value-proposition/1.-what-is-bm/</guid>
+      <description>Communication and Self-Reflexion tool The Business Model concept has become common place in many industries and is proving valuable as both a communication and self-reflexion tool. It has also spread to strategic practices as a means of in depth checking of a strategic design.
+The stakes are as much in the coherence, consistency of the strategic vision and enterprise architecture as in the ability to mobilize and convince the various stakeholders and materialize the vision.</description>
     </item>
     
     <item>
@@ -78,19 +97,19 @@ In a nutshell, a BM is a simplified representation of a business that stresses b
       
       <guid>/value/2.-competitive-advantage/</guid>
       <description>Performance difference is not the rule in all industries and although differences may exist, they are often short lived. Nevertheless some firms, in many different industries, in many different countries and contexts, are doing better than others.
-Competitive Advantage Understanding the conditions and factors that control over-performance, has taken center stage in business strategy.
+  Competitive Advantage Understanding the conditions and factors that control over-performance, has taken centre stage in business strategy.
 „An enterprise has a competitive advantage if it is able to create more economic value than the marginal (break-even) competitor in its product market, where economic value is the difference between the perceived benefits gained by the purchasers of the firm’s goods or services and the economic cost to the enterprise.</description>
     </item>
     
     <item>
-      <title>Consequences for practitioners</title>
+      <title>Consequences for Practitioners</title>
       <link>/introduction/2.-consequences/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
       <guid>/introduction/2.-consequences/</guid>
-      <description>Ambiguity Practitioners have to deal with &amp;lsquo;Ambiguity&amp;rsquo; considering that the word strategy holds a variety of meanings and strategy-making also comes in a vast variety of tastes.
-No single definition of &amp;lsquo;what strategy should be&amp;rsquo; is accepted (various people may have different perceptions or expectations). Therefore, dealing with strategy elaboration first and foremost requires building a shared interpretation of the problem to be solved.
-When the problem at hand is understood, the strategist must establish as well an adequate problem solving approach and strategy development process and leadership.</description>
+      <description>Practitioners have to deal with &amp;lsquo;Ambiguity&amp;rsquo; considering that the word strategy holds a variety of meanings and strategy-making also comes in a vast variety of tastes.
+  No single definition of &amp;lsquo;what strategy should be&amp;rsquo; is accepted (various people may have different perceptions or expectations). Therefore, dealing with strategy elaboration first and foremost requires building a shared interpretation of the problem to be solved.
+When the problem at hand is understood, the strategist must establish as well an adequate problem-solving approach and strategy development process and leadership.</description>
     </item>
     
     <item>
@@ -103,22 +122,45 @@ When the problem at hand is understood, the strategist must establish as well an
     </item>
     
     <item>
+      <title>Finance &amp; ROI</title>
+      <link>/value-architecture/2.-finance/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/2.-finance/</guid>
+      <description>Return on Investment (ROI) is a broad term that encompasses many different ways of measuring the performance of an investment.
+  In general the absolute values of indicators are not meaningful per se. Instead, indicators are used to compare the performance of a firm to other firms from the same industry or across industries. Indicators can also be used to assess performance evolution over time.
+A &amp;lsquo;Return&amp;rsquo; on &amp;lsquo;Investment&amp;rsquo; ratio is always some sort of fraction where the numerator measures the performance of a firm and the denominator measures a level of investment.</description>
+    </item>
+    
+    <item>
       <title>Growth options</title>
       <link>/corporate/2.-growth/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
       <guid>/corporate/2.-growth/</guid>
-      <description>Growth motivations There are very many reasons (good or sometimes questionable) why a company would seek to grow. If we forget fashion effects or &amp;lsquo;prestige&amp;rsquo; motivations it all fall down to three major aspirations:
- Getting access to resources that the mother company needs and that cannot be optained efficiently from markets
+      <description>There are very many reasons (good or sometimes questionable) why a company would seek to grow.
+  Growth motivations If we forget fashion effects or &amp;lsquo;prestige&amp;rsquo; motivations it all fall down to three major aspirations:
+ Getting access to resources that the mother company needs and that cannot be obtained efficiently from markets
  Financial optimisation that will mostly appeal to Financila investores by also sometimes to CFOs of large coorporations</description>
     </item>
     
     <item>
-      <title>Thinking Method</title>
-      <link>/leadership/2.-thinking-method/</link>
+      <title>Start with Why</title>
+      <link>/leadership/2.why/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/leadership/2.-thinking-method/</guid>
+      <guid>/leadership/2.why/</guid>
+      <description>In its acclaimed book Simon Sinek ( [Sinek11] ) questions Why are some people and organisations more innovative, more influential, and more profitable than others ? Why do some command greater loyalty ?. Sounds familiar ?
+Although the book doesn’t deal specifically with strategic management, it covers notions such as leadership and sense of purpose, which ultimately are the key ingredients to successful strategy implementation.
+There are only two ways to influence human behaviour According to Sinek Competitive Advantage is an illusion: &amp;lsquo; there’s barely a product or service on the market that customers can’t buy from someone else about the same price, about the same quality, the same features, the same level of features [&amp;hellip;] if you offer something truly novel, someone else will soon come up with something similar and maybe even better &amp;lsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Thinking about Thinking</title>
+      <link>/management/2.-thinking/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/management/2.-thinking/</guid>
       <description>Every problem contains within itself
 the seeds of its own solution.
  Stanley Arnold   “ The world as we have created it, is a process of our thinking.
@@ -129,23 +171,34 @@ it cannot be changed without changing our thinking.
     
     <item>
       <title>Value Proposition</title>
-      <link>/business-model/2.-value-proposition/</link>
+      <link>/value-proposition/2.-value-proposition/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/business-model/2.-value-proposition/</guid>
+      <guid>/value-proposition/2.-value-proposition/</guid>
       <description>A Value proposition is the description of the offer (product or service) made by a company to its customer and why the offer is attractive to customers.
  One of the central questions in Strategy is: which value proposition should be developed? to serve which customer segments?
-   Value Propositions compete with a broad set of substitutes. Customers, through their behaviors and consumption logic, determine which companies are actually competing.</description>
+   Value Propositions compete with a broad set of substitutes. Customers, through their behaviours and consumption logic, determine which companies are actually competing.</description>
     </item>
     
     <item>
       <title>Blue Ocean Strategy</title>
-      <link>/business-model/3.-blue-ocean-strategy/</link>
+      <link>/value-proposition/3.-blue-ocean-strategy/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/business-model/3.-blue-ocean-strategy/</guid>
+      <guid>/value-proposition/3.-blue-ocean-strategy/</guid>
       <description>On the fringe of the two dominant orthodox models (the market-based and resource-based theories) several frameworks have been introduced. They’ve not all made it through. However some frameworks (eg. Blue Ocean Strategy by W. Chan Kim &amp;amp; Renée Mauborgne or Delta model by A. Hax) are becoming popular and are considered valid alternatives or at least good supplements to the dominant models.
   In Hax&amp;rsquo;s words ( [Hax01] ) :</description>
+    </item>
+    
+    <item>
+      <title>Business Case</title>
+      <link>/value-architecture/3.-b-case/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/3.-b-case/</guid>
+      <description>Business Case One may argue that preparing business cases does not strictly fall within the scope of strategy, and even less of corporate strategy.
+  There are however at least three reasons for looking at business cases as part of strategy elaboration:
+ Value: strategic moves are about generating value. Although value must here be understood in its widest sense, many stakeholders (starting with shareholders) will measure value in terms of the financial impact.</description>
     </item>
     
     <item>
@@ -163,8 +216,8 @@ it cannot be changed without changing our thinking.
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
       <guid>/corporate/3.-selection/</guid>
-      <description>Selecting Options Strategy is about making choice, about allocating resource to the best projects or strategic options.
-A firm usually faces several options : for instance developing new products or entering a new business (diversification). Not all the options can be pursued at the same time (remember scarcity of resources). The firm needs to prioritize the various options and down-select the few it wants to implement.
+      <description>Strategy is about making choice, about allocating resource to the best projects or strategic options.
+A firm usually faces several options : for instance developing new products or entering a new business (diversification). Not all the options can be pursued at the same time (remember scarcity of resources). The firm needs to prioritise the various options and down-select the few it wants to implement.
   Even a single strategy elaboration project can produce more than one proposal.</description>
     </item>
     
@@ -179,24 +232,25 @@ A firm usually faces several options : for instance developing new products or e
     </item>
     
     <item>
-      <title>Scanning the environment</title>
-      <link>/leadership/3.-scanning/</link>
+      <title>Strategy formulation Process</title>
+      <link>/introduction/3.-process/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/leadership/3.-scanning/</guid>
-      <description>Even when it is explicitly formulated, a strategy does include detailed actions for all stakeholders. On the contrary, it should focus on top level considerations and ensure alignment, while leaving a lot of freeway to the people in charge of executing.
-  Organization alignment D. Sull &amp;amp; K.M. Eisenhardt ( [Sull15] ) have rightly pointed out that if an organization’s strategy lives on the shelf then this organization has a problem.</description>
+      <guid>/introduction/3.-process/</guid>
+      <description>To practitioners, strategy is not only an outcome, but also a complete collection of activities, conversations, decision-making exchanges. The strategy formulation process is a typical example of such activities.
+  Strategy as Practice is an academic field that complements the mainstream strategy research. It focuses on the practical tasks that contribute to the thinking and making of strategy (e.g. strategy formulation, planning and implementation).
+Strategy Formulation Process Four interrelated facets Strategy as a practice encompasses four aspects or facets that are deeply interrelated:</description>
     </item>
     
     <item>
-      <title>Strategic Thinking - a primer </title>
-      <link>/introduction/3.-strategic-thinking/</link>
+      <title>Classical Tools</title>
+      <link>/management/3.-classical-tools/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/introduction/3.-strategic-thinking/</guid>
-      <description>The notion of strategic interaction is one of the core concepts for strategic thinking.
-Let’s assume there is a buffet and we all rush to the refreshments. As a consequence when the last two persons arrive there is only one cup of tea left. These two persons both have two options: either take or don’t take the tea.
-  This can be represented by a table or matrix, where the rows correspond to one person’s actions and the columns to the other’s.</description>
+      <guid>/management/3.-classical-tools/</guid>
+      <description>Give me six hours to chop down a tree I will spend the first four sharpening the axe.
+ ABRAHAM LINCOLN  There is an endless list of techniques, frameworks and tricks that have their use in strategy elaboration. Almost every new book or article on strategy, put forward a new set of analytical tools, diagnosis canvas or action frameworks.
+The objective of this part is to see a glimpse of some of the most common or most used tools.</description>
     </item>
     
     <item>
@@ -205,8 +259,8 @@ Let’s assume there is a buffet and we all rush to the refreshments. As a conse
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
       <guid>/introduction/4.-complement/</guid>
-      <description>Ex-post narrative - the Honda Case The now famous Honda Case is a perfect illustration of the difference between deliberate and emergent strategies. It also proves that convincing ex-post stories can be built by analysts who try to report and make intelligible the successful strategic moves and/or missed opportunities of firms.
-However, it seems that, in that case (but in how many more ?) the ex-post explanations had totally reconstructed the initial strategic intends and/or deviate from the hard facts.</description>
+      <description>Ex-post narrative - the Honda Case The now-famous Honda Case is a perfect illustration of the difference between deliberate and emergent strategies. It also proves that convincing ex-post stories can be built by analysts who try to report and make intelligible the successful strategic moves and/or missed opportunities of firms.
+However, it seems that in that case (but in how many more ?) the ex-post explanations had completely reconstructed the initial strategic intends and/or deviate from the hard facts.</description>
     </item>
     
     <item>
@@ -219,57 +273,6 @@ However, it seems that, in that case (but in how many more ?) the ex-post explan
     </item>
     
     <item>
-      <title>Take Away</title>
-      <link>/corporate/4.-takeway/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/corporate/4.-takeway/</guid>
-      <description>The Ansoff&amp;rsquo;s Matrix The famous Ansoff’s matrix was first published in 1957 in the Harvard Business Review. It portrays the four alternative growth strategies, by considering existing products vs. new products, and existing markets vs. new markets.
-  Market penetration consists in increasing the business through offering the same product/service to the same market. Market development and Product development are sometimes called related diversification (or adjacent diversification). The idea here is to either offer new products to existing customers or to propose existing products to new markets.</description>
-    </item>
-    
-    <item>
-      <title>Take Away</title>
-      <link>/value/4.-takeway/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/value/4.-takeway/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Value Architecture</title>
-      <link>/business-model/4.-value-architecture/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/business-model/4.-value-architecture/</guid>
-      <description>Any firm, whether it produces products or services, transforms some inputs into outputs (aka Value Propositions). Inputs typically range from raw-materials, labour, intermediate products, consumables.
- Note: the transformation process may also require items (e.g. machinery) that can be used repeatedly. Such items are called Capital Equipment and are not transformed in the process.
- Economists call inputs factors and say that firm combine factors. They also represent the transformation as a so called production function.</description>
-    </item>
-    
-    <item>
-      <title>Vision</title>
-      <link>/leadership/4.-vision/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/leadership/4.-vision/</guid>
-      <description>VISION
-Strategy is what determines the framework of a firm&amp;rsquo;s business activities and provides guidelines for coordinating activities so that the firm can cope with and influence the changing environment. Strategy articulates the firm&amp;rsquo;s preferred environment and the type of organization it is striving to become - Hiroyuki Itami.
-Mission &amp;ldquo;the enduring set of fundamental principles (including the core values, believes, functioning habits) outlining what purpose the organisation wishes to serve, in what domain and under which conditions&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Complements</title>
-      <link>/leadership/5.-complements/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/leadership/5.-complements/</guid>
-      <description>Even when it is explicitly formulated, a strategy does include detailed actions for all stakeholders. On the contrary, it should focus on top level considerations and ensure alignment, while leaving a lot of freeway to the people in charge of executing.
-  Organization alignment D. Sull &amp;amp; K.M. Eisenhardt ( [Sull15] ) have rightly pointed out that if an organization’s strategy lives on the shelf then this organization has a problem.</description>
-    </item>
-    
-    <item>
       <title>International Strategy</title>
       <link>/international/p5/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
@@ -279,22 +282,14 @@ Mission &amp;ldquo;the enduring set of fundamental principles (including the cor
     </item>
     
     <item>
-      <title>Take Away</title>
-      <link>/introduction/5.-take-away/</link>
+      <title>Strategic Thinking - a primer </title>
+      <link>/introduction/5.-strategic-thinking/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/introduction/5.-take-away/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Value Equation</title>
-      <link>/business-model/5.-value-equation/</link>
-      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
-      
-      <guid>/business-model/5.-value-equation/</guid>
-      <description>Business Case One may argue that preparing business cases does not strictly fall within the scope of strategy, and even less of corporate strategy. There are however at least three reasons for looking at business cases as part of strategy elaboration:
- Value: strategic moves are about generating value. Although value must here be understood in its widest sense, many stakeholders (starting with shareholders) will measure value in terms of the financial impact.</description>
+      <guid>/introduction/5.-strategic-thinking/</guid>
+      <description>Strategic Interaction The notion of strategic interaction is one of the core concepts for strategic thinking.
+  This notion can be rather complex and this section must be seen as a humble introduction to it.
+When is an interaction becoming strategic? Let’s assume there is a buffet and we all rush to the refreshments. As a consequence when the last two persons arrive there is only one cup of tea left.</description>
     </item>
     
     <item>
@@ -308,10 +303,37 @@ Mission &amp;ldquo;the enduring set of fundamental principles (including the cor
     
     <item>
       <title>Take Away</title>
-      <link>/business-model/6.-take-away/</link>
+      <link>/introduction/6.-take-away/</link>
       <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
       
-      <guid>/business-model/6.-take-away/</guid>
+      <guid>/introduction/6.-take-away/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Take Away</title>
+      <link>/management/4..-take-away/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/management/4..-take-away/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Take Away</title>
+      <link>/value-architecture/4..-take-away/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/4..-take-away/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Take Away</title>
+      <link>/value-proposition/4..-take-away/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-proposition/4..-take-away/</guid>
       <description>  </description>
     </item>
     

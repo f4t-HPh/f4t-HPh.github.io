@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/preface/</loc>
+    <loc>/introduction/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/introduction/</loc>
+    <loc>/value-architecture/1.-business-economics/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>/leadership/1.-getting-organized/</loc>
+    <loc>/management/1.getting-organised/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -33,12 +33,17 @@
   </url>
   
   <url>
+    <loc>/leadership/1.-vision/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/value/1.-what-is-value/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/business-model/1.-what-is-bm/</loc>
+    <loc>/value-proposition/1.-what-is-bm/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -58,32 +63,42 @@
   </url>
   
   <url>
+    <loc>/value-architecture/2.-finance/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/corporate/2.-growth/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/leadership/2.-thinking-method/</loc>
+    <loc>/management/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/business-model/2.-value-proposition/</loc>
+    <loc>/leadership/2.why/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/value/</loc>
+    <loc>/management/2.-thinking/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/business-model/3.-blue-ocean-strategy/</loc>
+    <loc>/value-proposition/2.-value-proposition/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/business-model/</loc>
+    <loc>/value-proposition/3.-blue-ocean-strategy/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/value-architecture/3.-b-case/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -103,12 +118,17 @@
   </url>
   
   <url>
-    <loc>/leadership/3.-scanning/</loc>
+    <loc>/introduction/3.-process/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/introduction/3.-strategic-thinking/</loc>
+    <loc>/value/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/management/3.-classical-tools/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -118,37 +138,12 @@
   </url>
   
   <url>
-    <loc>/corporate/</loc>
-    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/international/p4/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/corporate/4.-takeway/</loc>
-    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/value/4.-takeway/</loc>
-    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/business-model/4.-value-architecture/</loc>
-    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/leadership/4.-vision/</loc>
-    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/leadership/5.-complements/</loc>
+    <loc>/value-proposition/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -158,17 +153,17 @@
   </url>
   
   <url>
-    <loc>/leadership/</loc>
+    <loc>/introduction/5.-strategic-thinking/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/introduction/5.-take-away/</loc>
+    <loc>/value-architecture/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/business-model/5.-value-equation/</loc>
+    <loc>/corporate/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -178,7 +173,22 @@
   </url>
   
   <url>
-    <loc>/business-model/6.-take-away/</loc>
+    <loc>/introduction/6.-take-away/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/management/4..-take-away/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/value-architecture/4..-take-away/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/value-proposition/4..-take-away/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   
@@ -189,6 +199,11 @@
   
   <url>
     <loc>/international/</loc>
+    <lastmod>2018-08-12T20:00:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/leadership/</loc>
     <lastmod>2018-08-12T20:00:39+02:00</lastmod>
   </url>
   

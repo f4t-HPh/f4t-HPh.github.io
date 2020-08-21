@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Value Architecture on Practitioner&#39;s Perspective on Strategy</title>
+    <link>/value-architecture/</link>
+    <description>Recent content in Value Architecture on Practitioner&#39;s Perspective on Strategy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Aug 2018 20:00:39 +0200</lastBuildDate>
+    
+	<atom:link href="/value-architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Economics</title>
+      <link>/value-architecture/1.-business-economics/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/1.-business-economics/</guid>
+      <description>Economists call inputs factors and say that firm combine factors. They also represent the transformation as a so called production function. The function is characteristic of the technology (i.e. production processes) used. For a given production function, the output (and therefore the cost of producing the output) is a function of the various inputs.
+  A variation in outputs/inputs will translate into a variation in costs. Moreover the variation in costs in usually not linear (producing more doesn’t necessarily imply overspending in proportion).</description>
+    </item>
+    
+    <item>
+      <title>Finance &amp; ROI</title>
+      <link>/value-architecture/2.-finance/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/2.-finance/</guid>
+      <description>Return on Investment (ROI) is a broad term that encompasses many different ways of measuring the performance of an investment.
+  In general the absolute values of indicators are not meaningful per se. Instead, indicators are used to compare the performance of a firm to other firms from the same industry or across industries. Indicators can also be used to assess performance evolution over time.
+A &amp;lsquo;Return&amp;rsquo; on &amp;lsquo;Investment&amp;rsquo; ratio is always some sort of fraction where the numerator measures the performance of a firm and the denominator measures a level of investment.</description>
+    </item>
+    
+    <item>
+      <title>Business Case</title>
+      <link>/value-architecture/3.-b-case/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/3.-b-case/</guid>
+      <description>Business Case One may argue that preparing business cases does not strictly fall within the scope of strategy, and even less of corporate strategy.
+  There are however at least three reasons for looking at business cases as part of strategy elaboration:
+ Value: strategic moves are about generating value. Although value must here be understood in its widest sense, many stakeholders (starting with shareholders) will measure value in terms of the financial impact.</description>
+    </item>
+    
+    <item>
+      <title>Take Away</title>
+      <link>/value-architecture/4..-take-away/</link>
+      <pubDate>Sun, 12 Aug 2018 20:00:39 +0200</pubDate>
+      
+      <guid>/value-architecture/4..-take-away/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
